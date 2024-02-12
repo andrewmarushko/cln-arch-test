@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "",
+      "title": "kjashf",
+      "body": "sadkljasldkj",
+      "views": 0
+    },
+    {
+      "id": "",
+      "title": "sdf",
+      "body": "sdf",
+      "views": 0
+    },
+    {
+      "id": "",
+      "title": "asdasd",
+      "body": "sdfasdasdas",
+      "views": 0
+    },
+    {
+      "id": "7848",
+      "title": "asdasd",
+      "body": "asdasd",
+      "views": 0
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
